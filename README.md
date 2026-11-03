@@ -35,16 +35,16 @@ This project helps understand restaurant trends, pricing, cuisines, and location
 ## Project Visualizations
 
 ### Top 10 Restaurants
-![Top 10 Restaurants](chart/top_10_restaurants.png)
+![Top 10 Restaurants](top_10_restaurants.png)
 
 ### Top 10 Locations
-![Top 10 Locations](chart/top_10_locations.png)
+![Top 10 Locations](top_10_locations.png)
 
 ### Top 10 Cuisines
-![Top 10 Cuisines](chart/top_10_cuisines.png)
+![Top 10 Cuisines](top_10_cuisines.png)
 
 ### Average Price by Location
-![Average Price by Location](chart/average_price_by_location.png)
+![Average Price by Location](average_price_by_location.png)
 
 ### Most Expensive Restaurant
 
